@@ -1,7 +1,7 @@
 # Electricity-recommendation-system
 
-We aim to come up with a recommendation system for a house hold, that can help in cost estimation
-Our method involves three phases
-1-> Data engineering
-2-> CLustering 
-3-> Cost optimization
+The following code version has three modules
+Data enrollment -> clustering -> generating ON/OFF states, predicting target -> Energy dissagregation results
+Data preprocessing -> Resampling ->filling null values
+Pattern mining -> Apriori algorithm
+Evaluation -> Energy consumption -> classification report
